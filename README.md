@@ -1,4 +1,4 @@
-# minimal-csp-error
+# minimal-csp-error in Chrome 86
 
 Prerequisites: node
 
