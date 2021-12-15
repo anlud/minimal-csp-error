@@ -1,4 +1,4 @@
-# minimal-csp-error in Chrome 86
+# minimal-example for strict-dynamic-csp-error in Chrome 86
 
 Prerequisites: node
 
